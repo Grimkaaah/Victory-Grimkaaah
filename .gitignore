@@ -1,0 +1,12 @@
+# Builds
+/target/
+/bin/
+# Local files: your paths, your sessions, your preparation
+/victory.toml
+/logs/*
+!/logs/.gitkeep
+/tools/prepared.txt
+# Local only: a personal Discord status
+/tools/discord-presence.ps1
+/tools/discord-app-id.txt
+/tools/*.png

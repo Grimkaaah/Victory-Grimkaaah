@@ -1,0 +1,7 @@
+# Copy this file to victory.toml (beside it) and set game_dir to the folder of your own
+# copy of the title (its executable and its shader archive are named in tools\settings.ps1).
+# victory.toml stays on your PC: it is not part of the repository.
+[paths]
+game_dir = 'D:\Games\MyTitle'
+
+test_titles = []
